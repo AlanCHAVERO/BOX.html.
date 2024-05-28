@@ -55,7 +55,8 @@
         <h2>Saga de Rocky</h2>
         <p>La saga de Rocky es una serie de películas sobre un boxeador llamado Rocky Balboa, interpretado por Sylvester Stallone. La primera película, lanzada en 1976, ganó tres premios de la Academia, incluido el premio a la Mejor Película. La franquicia ha sido un éxito comercial y ha inspirado a generaciones de fanáticos del boxeo y del cine.</p>
         <p>Las películas de Rocky exploran temas como la determinación, el sacrificio y el poder del espíritu humano. La saga consta de ocho películas, incluida una secuela centrada en el hijo de Rocky, llamada Creed.</p>
-        <!-- Más información sobre las películas de Rocky -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sylvester_Stallone_2019_by_Glenn_Francis_%28cropped%29.jpg/220px-Sylvester_Stallone_2019_by_Glenn_Francis_%28cropped%29.jpg" alt="Sylvester Stallone como Rocky Balboa">
+        <!-- Esta es una imagen de Wikimedia Commons -->
     </section>
     
     <section id="proximas-peleas">
@@ -72,13 +73,13 @@
     
     <section id="imagenes">
         <h2>Imágenes</h2>
-        <img src="https://via.placeholder.com/300" alt="Muhammad Ali">
-        <img src="https://via.placeholder.com/300" alt="Mike Tyson">
-        <img src="https://via.placeholder.com/300" alt="Sugar Ray Leonard">
-        <img src="https://via.placeholder.com/300" alt="Floyd Mayweather Jr.">
-        <img src="https://via.placeholder.com/300" alt="Manny Pacquiao">
-        <img src="https://via.placeholder.com/300" alt="Canelo Álvarez">
-        <!-- Más imágenes -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg" alt="Muhammad Ali">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mike_Tyson_2019_by_Glenn_Francis.jpg/220px-Mike_Tyson_2019_by_Glenn_Francis.jpg" alt="Mike Tyson">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sugar_Ray_Leonard_2019.jpg/220px-Sugar_Ray_Leonard_2019.jpg" alt="Sugar Ray Leonard">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Floyd_Mayweather_Jr.jpg/220px-Floyd_Mayweather_Jr.jpg" alt="Floyd Mayweather Jr.">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Manny_Pacquiao_-_2010.jpg/220px-Manny_Pacquiao_-_2010.jpg" alt="Manny Pacquiao">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Saul_Canelo_Alvarez_2_-_2017_%28crop%29.jpg/220px-Saul_Canelo_Alvarez_2_-_2017_%28crop%29.jpg" alt="Canelo Álvarez">
+        <!-- Estas son imágenes de Wikimedia Commons -->
     </section>
     
     <section id="videos">
@@ -92,4 +93,5 @@
     </footer>
 </body>
 </html>
+
 
