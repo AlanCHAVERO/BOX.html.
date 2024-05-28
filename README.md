@@ -71,6 +71,11 @@
                 <p>Canelo Álvarez es uno de los boxeadores más destacados de la actualidad. Conocido por su habilidad técnica y su poder de golpeo, ha ganado títulos mundiales en múltiples categorías de peso y ha participado en algunas de las peleas más vistas en la televisión de pago.</p>
                 <img src="https://laopinion.com/wp-content/uploads/sites/3/2020/01/canelo-alvarez-adolescente.jpg?quality=80&strip=all&w=1200" alt="Canelo Álvarez">
             </li>
+            <li>
+                <h3>Rocky Balboa</h3>
+                <p>Rocky Balboa es un ícono del cine y del boxeo. Interpretado por Sylvester Stallone, Rocky es conocido por su resistencia, determinación y corazón. La saga de películas de Rocky ha inspirado a millones en todo el mundo.</p>
+                <img src="https://i.pinimg.com/originals/25/ce/bc/25cebce400ed2adb9d73ec2551e09b58.jpg" alt="Rocky Balboa">
+            </li>
             <!-- Más boxeadores -->
         </ul>
     </section>
@@ -102,6 +107,7 @@
         <img src="https://totallyhistory.com/wp-content/uploads/2013/10/Floyd-Mayweather-Jr..jpg" alt="Floyd Mayweather Jr.">
         <img src="https://i.ytimg.com/vi/Kch6BI818l4/maxresdefault.jpg" alt="Manny Pacquiao">
         <img src="https://laopinion.com/wp-content/uploads/sites/3/2020/01/canelo-alvarez-adolescente.jpg?quality=80&strip=all&w=1200" alt="Canelo Álvarez">
+        <img src="https://i.pinimg.com/originals/25/ce/bc/25cebce400ed2adb9d73ec2551e09b58.jpg" alt="Rocky Balboa">
         <!-- Estas son imágenes de otra fuente -->
     </section>
     
@@ -116,6 +122,7 @@
     </footer>
 </body>
 </html>
+
 
 
 
